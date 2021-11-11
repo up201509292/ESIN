@@ -1,0 +1,17 @@
+O intuito da elaboração da plataforma é criar uma interface entre pacientes e profissionais da saúde com o objetivo de monitorizar, planear e estruturar 
+a vida de um paciente com diagnóstico de cancro.
+O usuário principal dessa plataforma é o paciente, este deverá informar seus dados pessoais (nome, idade, género, número de contacto, planos de saúde, se houver).
+
+Outras informações serão submetidas pelos próprios profissionais da saúde, como: os dados pessoais do mesmo(nome, idade, número de contacto, identificação médica),
+o controle do medicamento (remédio, dosagem, horários), exames laboratoriais, agendamento de cirurgias, recomendações e informações adicionais.
+
+Exames, cirurgias e tratamentos são realizados em clínicas e hospitais. Cada local deve ter um nome, endereço, horário de funcionamento e métodos de contacto
+(telefone e/ou email). Se o local, tiver outras mídias digitais essas também podem ser incluídas (como sites, redes sociais, etc).
+
+Exames, cirurgias e tratamentos devem ter um horário marcado (ou um horário de atendimento no caso de não haver marcações). Além disso, para cada marcação deverá
+ter a confirmação da presença entre os pacientes e os centros de saúde responsáveis, o qual o paciente receberá notificações sobre o estado do mesmo.
+
+Medicamentos devem ter nome, dosagem (recomendada pelo médico), horário que devem ser tomados, entre outras informações adicionais. Além dos usuais efeitos
+colaterais, os pacientes podem dar o seu feedback quanto ao relatarem os efeitos colaterais que sentiram.
+
+O paciente poderá agendar suas próximas consultas, inserir exames, inserir tratamentos exteriores e/ alternativos, histórico clínico e familiar.
